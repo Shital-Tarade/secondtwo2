@@ -1,0 +1,12 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    
+
+ }
+
+   nav {
+    background-color:rgb(234, 234, 245);
+    box-shadow: 0,0,10px rgb(238, 155, 155);
+    padding: 3rem;
+   }
